@@ -3,14 +3,14 @@
 
 **About me!**
 
-I am self taught and eager to learn about cyber security and overall tech. I have passed my Comp Tia Sec+ certificate and plan on expanding my knowledge in the field.
+I am self-taught and eager to learn about cyber security and overall tech. I have passed my Comp Tia Sec+ certificate and plan on expanding my knowledge in the field.
 
 ## Objective
 
 My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
