@@ -17,7 +17,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | SIEM Implementation and Log Analysis(Detection Lab)          | <a href="https://github.com/jadenramirez71999-pixel/Detection-Lab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/jadenramirez71999-pixel/Security-Automation-with-Shuffle-SOAR/tree/main">Security Automation with Shuffle SOAR</a>|
 | Case Management with TheHive                  | <a href= "https://github.com/jadenramirez71999-pixel/Case-Management-with-TheHive/blob/main/README.md">Case Management with TheHive</a>|  
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | In Progress|
 
 ## Tools
 
