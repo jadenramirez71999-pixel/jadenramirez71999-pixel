@@ -16,7 +16,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/jadenramirez71999-pixel/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/jadenramirez71999-pixel/Detection-La](https://github.com/jadenramirez71999-pixel/Security-Automation-with-Shuffle-SOAR/tree/main">Security Automation with Shuffle SOAR</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/jadenramirez71999-pixel/Security-Automation-with-Shuffle-SOAR/tree/main">Security Automation with Shuffle SOAR</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -52,4 +52,4 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ## Projects
 - <a href="https://github.com/jadenramirez71999-pixel/Detection-Lab">Detection Lab</a>
-- <a href="https://github.com/jadenramirez71999-pixel/Detection-La](https://github.com/jadenramirez71999-pixel/Security-Automation-with-Shuffle-SOAR/tree/main">Security Automation with Shuffle SOAR</a>
+- <a href="https://github.com/jadenramirez71999-pixel/Security-Automation-with-Shuffle-SOAR/tree/main">Security Automation with Shuffle SOAR</a>
